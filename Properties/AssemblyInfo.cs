@@ -10,7 +10,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("PCB_TO_SOP_DB")]
-[assembly: AssemblyCopyright("Copyright ©  2020")]
+[assembly: AssemblyCopyright("Copyright ©  2025")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // 下列 GUID 為專案公開 (Expose) 至 COM 時所要使用的 typelib ID
-[assembly: Guid("ec611450-bd9d-49ee-98fa-2e8046a1b59b")]
+[assembly: Guid("742a321c-6a06-4e93-adc6-db9874d92128")]
 
 // 組件的版本資訊由下列四個值所組成:
 //
@@ -29,8 +29,5 @@ using System.Runtime.InteropServices;
 //      組建編號
 //      修訂
 //
-// 您可以指定所有的值，也可以使用 '*' 將組建和修訂編號
-// 設為預設，如下所示:
-// [assembly: AssemblyVersion("1.0.*")]
 [assembly: AssemblyVersion("1.0.0.0")]
 [assembly: AssemblyFileVersion("1.0.0.0")]
